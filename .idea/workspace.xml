@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8113c001-435c-40be-91b9-b2faa9f1ee46" name="Default Changelist" comment="init: start project." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2A3G2XNrsZtTtKQXfBYPHGO8mcm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8113c001-435c-40be-91b9-b2faa9f1ee46" name="Default Changelist" comment="" />
+      <created>1654230648817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654230648817</updated>
+      <workItem from="1654230649965" duration="11000" />
+      <workItem from="1654230679200" duration="722000" />
+      <workItem from="1654231471341" duration="62000" />
+      <workItem from="1654483716415" duration="2848000" />
+      <workItem from="1654570459852" duration="571000" />
+      <workItem from="1654571046753" duration="181000" />
+    </task>
+    <task id="LOCAL-00001" summary="init: start project.">
+      <created>1654230900859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654230900860</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: added div with class &quot;wrapper&quot;.">
+      <created>1654230981508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654230981508</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: added new font-family into css file.">
+      <created>1654231049156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654231049156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: added style to body.">
+      <created>1654231100709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654231100709</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: added style to classes.">
+      <created>1654231175117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654231175117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: added style to classes of elements.">
+      <created>1654231216277</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654231216277</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: added style to classes of elements.">
+      <created>1654483855152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654483855152</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor: changed title">
+      <created>1654486666058</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654486666058</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactor: title changed.">
+      <created>1654486775444</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654486775444</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init: start project.">
+      <created>1654570555337</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654570555337</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init: start project.">
+      <created>1654570619491</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654570619491</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: added div with class &quot;wrapper&quot;." />
+    <MESSAGE value="feat: added new font-family into css file." />
+    <MESSAGE value="feat: added style to body." />
+    <MESSAGE value="feat: added style to classes." />
+    <MESSAGE value="feat: added style to classes of elements." />
+    <MESSAGE value="refactor: changed title" />
+    <MESSAGE value="refactor: changed title to Megacom 2022" />
+    <MESSAGE value="refactor: title changed." />
+    <MESSAGE value="init: start project." />
+    <option name="LAST_COMMIT_MESSAGE" value="init: start project." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1654571207703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1654571207703" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1654571226065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1654571226065" />
+  </component>
+</project>

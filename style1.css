@@ -1,0 +1,92 @@
+@font-face{
+    src: url("./fonts/Campanella.ttf");
+    font-family: Campanella;
+}
+@font-face{
+    src: url("./fonts/Gilroy-Light.otf");
+    font-family: Gilroy;
+}
+body {
+    background-color: #1A5B35;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /*border: 3px solid blue;*/
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.wrapper{
+    width: 662px;
+
+}
+.content{
+    text-align: center;
+
+}
+.content h1{
+    font-family: "Campanella";
+    color: #CEB076;
+    font-weight: 400;
+    margin: 0;
+    line-height: 115px;
+    font-size: 72px;
+}
+
+.content p{
+    font-family: "Gilroy";
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 22px;
+}
+
+.sign p{
+    text-align: center;
+    font-family: "Gilroy";
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 22px;
+}
+
+
+.top-left{
+    position: absolute;
+    left: 2.78px;
+    top: 32px;
+}
+
+.bottom-left{
+    position: absolute;
+    left: 3.41px;
+    top: 598.44px;
+}
+.music{
+    position: absolute;
+    left: 12px;
+    top: 587px;
+}
+.top-right{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.center{
+    position: absolute;
+    left: 57.61%;
+    right: 34.17%;
+    top: 63.94%;
+    bottom: 30.22%;
+    transform: rotate(14.9deg);
+}
+.logo{
+    position: absolute;
+    left: 45.35%;
+    right: 45.35%;
+    top: 83.59%;
+    bottom: 11.13%;
+}
